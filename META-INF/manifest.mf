@@ -1,0 +1,2 @@
+main-class: src.task9
+class-path: binTask10/
