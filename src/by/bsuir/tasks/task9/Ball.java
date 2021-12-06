@@ -1,4 +1,4 @@
-package task9;
+package by.bsuir.tasks.task9;
 
 import java.awt.*;
 

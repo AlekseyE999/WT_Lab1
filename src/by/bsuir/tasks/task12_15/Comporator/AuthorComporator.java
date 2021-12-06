@@ -1,6 +1,6 @@
-package task12_15.Comporator;
+package by.bsuir.tasks.task12_15.Comporator;
 
-import task12_15.Book;
+import by.bsuir.tasks.task12_15.Book;
 import java.util.Comparator;
 
 public class AuthorComporator implements Comparator<Book> {

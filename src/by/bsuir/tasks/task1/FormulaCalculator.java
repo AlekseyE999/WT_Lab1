@@ -1,4 +1,4 @@
-package task1;
+package by.bsuir.tasks.task1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package task12_15;
+package by.bsuir.tasks.task12_15;
 
 import java.util.Objects;
 
